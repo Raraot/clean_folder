@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.0.7
+Summary: My homework 7 sort_file function
+Author: Suprunets Volodymyr
+Author-email: raraot@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
